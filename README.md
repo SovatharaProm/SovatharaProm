@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Sovathara Prom — Technical Business Analyst & Full Stack Developer" />
+  <img src="./header.svg" width="100%" alt="Sovathara Prom — Technical Business Analyst & Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ### `> whoami`
 
@@ -21,13 +21,13 @@ const sovathara = {
 };
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack — Languages: JavaScript, TypeScript, Java, PHP, Go. Frontend: React, Vue.js, Next.js, HTML5, CSS3, Tailwind. Backend & Data: Laravel, MySQL, PostgreSQL, MongoDB, Redis. DevOps & Cloud: Docker, Kubernetes, AWS, Google Cloud, Jenkins. Tools: Git, VS Code, Figma, Postman." />
+  <img src="./tech-stack.svg" width="100%" alt="Tech stack — Languages: JavaScript, TypeScript, Java, PHP, Go. Frontend: React, Vue.js, Next.js, HTML5, CSS3, Tailwind. Backend & Data: Laravel, MySQL, PostgreSQL, MongoDB, Redis. DevOps & Cloud: Docker, Kubernetes, AWS, Google Cloud, Jenkins. Tools: Git, VS Code, Figma, Postman." />
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ### `> git log --stats`
 
@@ -40,7 +40,7 @@ const sovathara = {
   <img src="https://streak-stats.demolab.com?user=SovatharaProm&background=06060c&border=2d2250&stroke=2d2250&ring=a371f7&fire=f472b6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a371f7&sideLabels=c9d1d9&dates=8b949e&border_radius=16" alt="GitHub streak" />
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ### `> ./play --contributions`
 
@@ -48,4 +48,4 @@ const sovathara = {
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
+<img src="./footer.svg" width="100%" alt="Thanks for stopping by" />
