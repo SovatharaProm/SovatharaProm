@@ -45,7 +45,7 @@ const sovathara = {
 ### `> ./play --contributions`
 
 <p align="center">
-  <img src="./assets/game.gif" alt="My GitHub contribution graph as a space shooter game" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
