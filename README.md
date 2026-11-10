@@ -15,7 +15,7 @@
 
 ```ts
 const sovathara = {
-  roles:      ["Technical Business Analyst", "Full Stack Developer"],
+  roles:      ["Technical Business Analyst", "Full Stack Developer", "DevOps"],
   superpower: "turning business requirements into shipped software",
   pipeline:   ["requirements", "user stories", "API & data design", "code", "deploy"],
 };
